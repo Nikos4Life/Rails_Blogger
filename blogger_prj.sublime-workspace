@@ -1,0 +1,783 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"sin",
+				"sinatra_layout"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"blo",
+				"blog_name"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"req",
+				"require_relative〔function〕"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"f",
+				"f3f3f3"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"bk",
+				"background-position"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"btn",
+				"button"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"em",
+				"email_included"
+			],
+			[
+				"ch",
+				"check_password_length"
+			],
+			[
+				"h",
+				"htmlboiler	htmlboiler"
+			],
+			[
+				"todo_",
+				"todo_list"
+			],
+			[
+				"Todo",
+				"TodoList"
+			],
+			[
+				"To",
+				"TodoList"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"todo",
+				"todo_list"
+			],
+			[
+				"requ",
+				"require_relative〔function〕"
+			],
+			[
+				"to_",
+				"to_s"
+			],
+			[
+				"su",
+				"substract"
+			],
+			[
+				"html",
+				"htmlboiler	htmlboiler"
+			],
+			[
+				"val",
+				"validate_move〔function〕"
+			],
+			[
+				"requi",
+				"require〔function〕"
+			],
+			[
+				"fil",
+				"file_reader"
+			],
+			[
+				"map",
+				"mapping"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"shop",
+				"shop_selected"
+			],
+			[
+				"sho",
+				"shop_selected"
+			],
+			[
+				"shop_",
+				"shop_index"
+			],
+			[
+				"we",
+				"when	when …"
+			],
+			[
+				"require",
+				"require_relative〔function〕"
+			],
+			[
+				"st",
+				"stock"
+			],
+			[
+				"pa",
+				"package"
+			],
+			[
+				"se",
+				"send_order_to_shop"
+			],
+			[
+				"or",
+				"order_qty"
+			],
+			[
+				"ask",
+				"ask_for_budget"
+			],
+			[
+				"pr",
+				"product_qty"
+			],
+			[
+				"s",
+				"stock"
+			],
+			[
+				"fina",
+				"financial"
+			],
+			[
+				"cl",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"sh",
+				"shops"
+			],
+			[
+				"gues",
+				"guessingword"
+			],
+			[
+				"wor",
+				"wordCat"
+			],
+			[
+				"word",
+				"wordCat"
+			],
+			[
+				"read",
+				"readDictionary"
+			],
+			[
+				"player",
+				"players"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"pos",
+				"postperpage"
+			],
+			[
+				"l",
+				"listvh"
+			],
+			[
+				"arr",
+				"arr_veh_sounds"
+			],
+			[
+				"whe",
+				"wheels"
+			],
+			[
+				"wh",
+				"wheels"
+			],
+			[
+				"eng",
+				"engine2"
+			],
+			[
+				"car",
+				"car_sound"
+			],
+			[
+				"engin",
+				"engine2"
+			],
+			[
+				"engine",
+				"engine2〔variable〕"
+			],
+			[
+				"n",
+				"new"
+			],
+			[
+				"E",
+				"Expengine"
+			],
+			[
+				"en",
+				"engine1"
+			],
+			[
+				"ci",
+				"city_name"
+			],
+			[
+				"cit",
+				"city_name"
+			],
+			[
+				"re",
+				"receive_car"
+			],
+			[
+				"get",
+				"getPlayersname〔function〕"
+			],
+			[
+				"pla",
+				"playernum"
+			],
+			[
+				"pl",
+				"player2"
+			],
+			[
+				"T",
+				"Tictactoe"
+			],
+			[
+				"cla",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"di",
+				"display_cards"
+			],
+			[
+				"red",
+				"reduceTest〔function〕"
+			],
+			[
+				"ca",
+				"capCities"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"char",
+				"each_char〔function〕"
+			],
+			[
+				"rev",
+				"reverse"
+			],
+			[
+				"uni",
+				"uniques〔function〕"
+			],
+			[
+				"reve",
+				"reverse〔function〕"
+			],
+			[
+				"fav",
+				"favorite_food〔variable〕"
+			],
+			[
+				"str",
+				"str2〔variable〕"
+			],
+			[
+				"array",
+				"array_words〔argument〕"
+			],
+			[
+				"dni",
+				"dnidef〔variable〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"dn",
+				"dnidef"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"rema",
+				"remainder"
+			],
+			[
+				"app",
+				"applecounter"
+			],
+			[
+				"ap",
+				"apple"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"put",
+				"puts〔function〕"
+			],
+			[
+				"aplp",
+				"applecounter"
+			],
+			[
+				"appl",
+				"applecounter"
+			],
+			[
+				"disc",
+				"discount"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"tota",
+				"total_items"
+			],
+			[
+				"ret",
+				"return〔function〕"
+			],
+			[
+				"A",
+				"Apple"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Pac	",
+		"selected_items":
+		[
+			[
+				"Pac	",
+				"Package Control: List Packages"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Rails/blogger"
+	],
+	"file_history":
+	[
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/sinatra_blog/spec/sinatra_blog_spec.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sharing behaviour - 17-10-2015/execution.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/sinatra_blog/Gemfile",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/sinatra_blog/lib/sinatra_blog.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra-MVC/todos_BAD/dirty_todo/refactor_dirty_todo/views/sinatra_layout.erb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra-MVC/todos_BAD/dirty_todo/refactor_dirty_todo/server.rb",
+		"/C/Users/mmmx3/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/CSS/WEEK-21-11-2015/Cloning_with_Bootstrap/index.html",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sharing behaviour - 17-10-2015/Blog.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/sinatra_blog/config.ru",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/CSS/WEEK-21-11-2015/Cloning_with_Bootstrap/css/styles.css",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Insecure_passwords/PasswordChecker/InsecurePassword/lib/InsecurePassword/PasswordChecker.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Insecure_passwords/PasswordChecker/InsecurePassword/spec/InsecurePassword_spec.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Insecure passwords/InsecurePassword/lib/InsecurePassword/PasswordChecker.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Insecure passwords/InsecurePassword/lib/InsecurePassword.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Insecure passwords/InsecurePassword/spec/InsecurePassword_spec.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra-MVC/todos_BAD/dirty_todo/refactor_dirty_todo/Gemfile",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra-MVC/todos_BAD/dirty_todo/refactor_dirty_todo/views/todos.erb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra-MVC/todos_BAD/dirty_todo/refactor_dirty_todo/todos.erb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra-MVC/todos_BAD/dirty_todo/refactor_dirty_todo/models/TodoList.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra-MVC/todos_BAD/dirty_todo/refactor_dirty_todo/models/Todo.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra/server.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra-MVC/todos_BAD/dirty_todo/dirty_todo/server.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Online Calculator/views/calculate_add.erb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra/views/access_static_assets.erb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra/views/loops.erb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra/views/ctime.erb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra/views/hipage.erb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra/views/author.erb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sinatra/borrame.htm",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Chess_validator/Moves.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/Shopping_cart.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/info.txt",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/Menu.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/Mall.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/Shop.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/Stock.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/Product.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/ShoppingCart.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/Discount.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/Financial.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/Warehouse.rb",
+		"/C/Ruby22/lib/ruby/site_ruby/2.2.0/readline.rb",
+		"/C/Ruby22/lib/ruby/site_ruby/2.2.0/rbreadline.rb",
+		"/C/Ruby22/lib/ruby/site_ruby/2.2.0/rbreadline/version.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/The Mall/Discount",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/ejemplo-mio/controller.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/execution.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/counter.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/ui.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/commandline.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/ejemplo-mio/main.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/ejemplo-mio/view.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/ejemplo-mio/model.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/ejemplo-mio/modelo.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/ejemplo-mio/controlador.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/ejemplo-mio/vista.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/cline.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/SOLID - 23-10-2015/modelo.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/hangman/Game.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/Rubyrecap.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/rb_loops.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/hangman/Word.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/hangman/Player.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Flashcards.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sharing behaviour - 17-10-2015/vehicles.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/tictactoe/tictactoe.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/tictactoe/Board.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/Sharing behaviour - 17-10-2015/Car.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/tictactoe/vehicles.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/tictactoe/Car2.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/tictactoe/Player.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/Object Orientation - 16-10-2015/Person.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/Object Orientation - 16-10-2015/Car.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/tictactoe.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/IronHack_Course_Ruby/tictactoe_example.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/Exercises/Flashcards.rb",
+		"/C/Users/mmmx3/Documents/GitHub/Prework-Ruby/FizzBuzz.rb",
+		"/C/Users/mmmx3/Documents/GitHub/Prework-Ruby/Caesar_cipher_3.rb",
+		"/C/Users/mmmx3/Documents/GitHub/Prework-Ruby/Shopping_cart.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Pre-work/JavaScript/funciones/funciones/js/functions.js",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/helloworld.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/collections.rb",
+		"/C/Users/mmmx3/OneDrive/Documentos/IronHack/Curso/Ruby/ruby2syntax.rb",
+		"/C/Users/mmmx3/Documents/GitHub/Prework-Ruby/inheritance.rb",
+		"/C/Users/mmmx3/Documents/GitHub/Prework-Ruby/Arrays.rb",
+		"/C/Users/mmmx3/Documents/GitHub/Prework-Ruby/Caesar_cipher.rb",
+		"/C/Users/mmmx3/Documents/GitHub/Prework-Ruby/Data_types.rb",
+		"/C/Users/mmmx3/Documents/GitHub/Prework-Ruby/Copyfile.rb",
+		"/C/Users/mmmx3/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/mmmx3/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"							<",
+			"fluids",
+			"-15",
+			"pad",
+			"61",
+			"logo",
+			"(\"../",
+			"password",
+			"2",
+			"		\n",
+			"}\n",
+			"time",
+			"times",
+			"\nrequire_relative(\"Stock.rb\")\nrequire_relative(\"ShoppingCart.rb\")\nrequire_relative(\"Financial.rb\")\nrequire_relative(\"Warehouse.rb\")\nclass Product\n	attr_accessor :price\n	def initialize(name,type,price)\n		@name = name\n		@type = type\n		@price = price\n	end\nend\n\nclass Apple < Product\n	def initialize(name,type,price)\n    	super(name,type,price)\n  	end\nend\n\nclass Orange < Product\n	def initialize(name,type,price)\n    	super(name,type,price)\n  	end\nend\n\nclass Grapes < Product\n	def initialize(name,type,price)\n    	super(name,type,price)\n  	end\nend\n\nclass Banana < Product\n	def initialize(name,type,price)\n    	super(name,type,price)\n  	end\nend\nclass Watermelon < Product\n	def initialize(name,type,price)\n    	super(name,type,price)\n  	end\nend",
+			"type",
+			"Win32API",
+			"RUBY_VERSION",
+			"#",
+			"puts",
+			"getact",
+			"getActivePlayer",
+			"<<",
+			"end",
+			"?",
+			"@board",
+			"board",
+			"puts",
+			"%",
+			"10",
+			"puts",
+			"applecounter",
+			"puts",
+			"@@",
+			"ignored"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 228.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blogger_prj.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"aut",
+				"views\\author.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
